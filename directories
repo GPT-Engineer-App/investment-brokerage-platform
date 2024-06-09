@@ -1,0 +1,13 @@
+investment_brokerage/
+├── app.py
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── login.html
+│   ├── register.html
+│   ├── dashboard.html
+├── static/
+│   ├── styles.css
+├── models.py
+├── forms.py
+├── database.db
